@@ -1,0 +1,320 @@
+2021-05-22 18:59:30,632 [main] INFO ebanking - URL is opened
+2021-05-22 19:01:49,177 [main] INFO ebanking - URL is opened
+2021-05-22 19:01:49,346 [main] INFO ebanking - Entered username
+2021-05-22 19:01:49,435 [main] INFO ebanking - Entered password
+2021-05-22 19:01:51,771 [main] INFO ebanking - Clicked on Login
+2021-05-22 19:01:51,790 [main] INFO ebanking - Login test passed
+2021-05-22 20:12:30,274 [main] INFO ebanking - URL is opened
+2021-05-22 20:12:30,652 [main] INFO ebanking - Entered username
+2021-05-22 20:12:30,767 [main] INFO ebanking - Entered password
+2021-05-22 20:12:33,173 [main] INFO ebanking - Clicked on Login
+2021-05-22 20:12:33,189 [main] INFO ebanking - Login test passed
+2021-05-22 20:17:43,258 [main] INFO ebanking - URL is opened
+2021-05-22 20:17:43,419 [main] INFO ebanking - Entered username
+2021-05-22 20:17:43,559 [main] INFO ebanking - Entered password
+2021-05-22 20:17:45,707 [main] INFO ebanking - Clicked on Login
+2021-05-22 20:17:45,728 [main] INFO ebanking - Login test passed
+2021-05-23 11:41:27,806 [main] INFO ebanking - URL is opened
+2021-05-23 11:41:27,982 [main] INFO ebanking - Entered username
+2021-05-23 11:41:28,073 [main] INFO ebanking - Entered password
+2021-05-23 11:41:30,323 [main] INFO ebanking - Clicked on Login
+2021-05-23 11:41:30,333 [main] INFO ebanking - Login test passed
+2021-05-23 11:41:53,073 [main] INFO ebanking - URL is opened
+2021-05-23 11:41:53,150 [main] INFO ebanking - Entered username
+2021-05-23 11:41:53,189 [main] INFO ebanking - Entered password
+2021-05-23 11:41:55,996 [main] INFO ebanking - Clicked on Login
+2021-05-23 11:41:56,013 [main] INFO ebanking - Login test passed
+2021-05-23 13:09:53,582 [main] INFO ebanking - URL is opened
+2021-05-23 13:09:53,665 [main] INFO ebanking - Entered username
+2021-05-23 13:09:53,705 [main] INFO ebanking - Entered password
+2021-05-23 13:09:55,998 [main] INFO ebanking - Clicked on Login
+2021-05-23 13:09:56,018 [main] INFO ebanking - Login test passed
+2021-05-23 13:16:20,691 [main] INFO ebanking - URL is opened
+2021-05-23 13:16:20,840 [main] INFO ebanking - Entered username
+2021-05-23 13:16:20,920 [main] INFO ebanking - Entered password
+2021-05-23 13:16:22,743 [main] INFO ebanking - Clicked on Login
+2021-05-23 13:16:22,985 [main] INFO ebanking - Login test failed
+2021-05-23 13:18:42,300 [main] INFO ebanking - URL is opened
+2021-05-23 13:18:42,462 [main] INFO ebanking - Entered username
+2021-05-23 13:18:42,572 [main] INFO ebanking - Entered password
+2021-05-23 13:18:44,690 [main] INFO ebanking - Clicked on Login
+2021-05-23 18:58:14,051 [main] INFO ebanking - Username is entered
+2021-05-23 18:58:14,134 [main] INFO ebanking - Password is entered
+2021-05-23 18:58:16,457 [main] INFO ebanking - Clicked on Login
+2021-05-23 18:58:20,877 [main] WARN ebanking - Test passed
+2021-05-23 18:58:20,982 [main] INFO ebanking - Username is entered
+2021-05-23 18:58:21,051 [main] INFO ebanking - Password is entered
+2021-05-23 18:58:21,558 [main] INFO ebanking - Clicked on Login
+2021-05-23 18:58:24,400 [main] INFO ebanking - Username is entered
+2021-05-23 18:58:24,471 [main] INFO ebanking - Password is entered
+2021-05-23 18:58:25,884 [main] INFO ebanking - Clicked on Login
+2021-05-23 18:58:29,456 [main] WARN ebanking - Test passed
+2021-05-23 18:58:29,557 [main] INFO ebanking - Username is entered
+2021-05-23 18:58:29,615 [main] INFO ebanking - Password is entered
+2021-05-23 18:58:29,680 [main] INFO ebanking - Clicked on Login
+2021-05-23 18:59:40,625 [main] INFO ebanking - Username is entered
+2021-05-23 18:59:40,740 [main] INFO ebanking - Password is entered
+2021-05-23 18:59:42,583 [main] INFO ebanking - Clicked on Login
+2021-05-23 18:59:46,716 [main] WARN ebanking - Test passed
+2021-05-23 18:59:46,803 [main] INFO ebanking - Username is entered
+2021-05-23 18:59:46,875 [main] INFO ebanking - Password is entered
+2021-05-23 18:59:47,459 [main] INFO ebanking - Clicked on Login
+2021-05-23 18:59:50,353 [main] INFO ebanking - Username is entered
+2021-05-23 18:59:50,435 [main] INFO ebanking - Password is entered
+2021-05-23 18:59:52,223 [main] INFO ebanking - Clicked on Login
+2021-05-23 18:59:55,910 [main] WARN ebanking - Test passed
+2021-05-23 18:59:56,012 [main] INFO ebanking - Username is entered
+2021-05-23 18:59:56,073 [main] INFO ebanking - Password is entered
+2021-05-23 18:59:56,130 [main] INFO ebanking - Clicked on Login
+2021-05-23 19:03:03,145 [main] INFO ebanking - Username is entered
+2021-05-23 19:03:03,260 [main] INFO ebanking - Password is entered
+2021-05-23 19:03:05,591 [main] INFO ebanking - Clicked on Login
+2021-05-23 19:03:10,191 [main] WARN ebanking - Test passed
+2021-05-23 19:03:10,337 [main] INFO ebanking - Username is entered
+2021-05-23 19:03:10,425 [main] INFO ebanking - Password is entered
+2021-05-23 19:03:11,413 [main] INFO ebanking - Clicked on Login
+2021-05-23 19:03:14,755 [main] INFO ebanking - Username is entered
+2021-05-23 19:03:14,823 [main] INFO ebanking - Password is entered
+2021-05-23 19:03:16,814 [main] INFO ebanking - Clicked on Login
+2021-05-23 19:03:22,295 [main] WARN ebanking - Test passed
+2021-05-23 19:03:22,410 [main] INFO ebanking - Username is entered
+2021-05-23 19:03:22,471 [main] INFO ebanking - Password is entered
+2021-05-23 19:03:22,531 [main] INFO ebanking - Clicked on Login
+2021-05-23 19:05:51,287 [main] INFO ebanking - Username is entered
+2021-05-23 19:05:51,369 [main] INFO ebanking - Password is entered
+2021-05-23 19:05:53,967 [main] INFO ebanking - Clicked on Login
+2021-05-23 19:05:53,984 [main] INFO ebanking - Test passed
+2021-05-23 19:05:58,345 [main] INFO ebanking - Username is entered
+2021-05-23 19:05:58,412 [main] INFO ebanking - Password is entered
+2021-05-23 19:05:58,897 [main] INFO ebanking - Clicked on Login
+2021-05-23 19:06:02,743 [main] INFO ebanking - Username is entered
+2021-05-23 19:06:02,816 [main] INFO ebanking - Password is entered
+2021-05-23 19:06:04,759 [main] INFO ebanking - Clicked on Login
+2021-05-23 19:06:04,764 [main] INFO ebanking - Test passed
+2021-05-23 19:06:09,184 [main] INFO ebanking - Username is entered
+2021-05-23 19:06:09,262 [main] INFO ebanking - Password is entered
+2021-05-23 19:06:09,326 [main] INFO ebanking - Clicked on Login
+2021-05-23 19:06:09,330 [main] INFO ebanking - Test passed
+2021-05-23 19:09:21,250 [main] INFO ebanking - Username is entered
+2021-05-23 19:09:21,347 [main] INFO ebanking - Password is entered
+2021-05-23 19:09:23,988 [main] INFO ebanking - Clicked on Login
+2021-05-23 19:09:27,043 [main] INFO ebanking - Test passed
+2021-05-23 19:09:32,043 [main] INFO ebanking - Username is entered
+2021-05-23 19:09:32,106 [main] INFO ebanking - Password is entered
+2021-05-23 19:09:32,651 [main] INFO ebanking - Clicked on Login
+2021-05-23 19:09:38,121 [main] INFO ebanking - Username is entered
+2021-05-23 19:09:38,183 [main] INFO ebanking - Password is entered
+2021-05-23 19:09:39,911 [main] INFO ebanking - Clicked on Login
+2021-05-23 19:09:42,923 [main] INFO ebanking - Test passed
+2021-05-23 20:08:32,972 [main] INFO ebanking - Username is entered
+2021-05-23 20:08:33,074 [main] INFO ebanking - Password is entered
+2021-05-23 20:08:35,996 [main] INFO ebanking - Clicked on Login
+2021-05-23 20:08:41,086 [main] INFO ebanking - Clicked on Add New Customer link
+2021-05-23 20:08:41,321 [main] INFO ebanking - Customer Name is entered
+2021-05-23 20:08:41,518 [main] INFO ebanking - Gender is selected
+2021-05-23 20:08:41,802 [main] INFO ebanking - DOB is entered
+2021-05-23 20:08:45,012 [main] INFO ebanking - Customer Address is entered
+2021-05-23 20:08:45,200 [main] INFO ebanking - Customer City is entered
+2021-05-23 20:08:45,355 [main] INFO ebanking - Customer State is entered
+2021-05-23 20:08:45,580 [main] INFO ebanking - Customer PIN is entered
+2021-05-23 20:08:45,809 [main] INFO ebanking - Customer Mobile Number is entered
+2021-05-23 20:08:46,060 [main] INFO ebanking - Customer email is entered
+2021-05-23 20:08:46,258 [main] INFO ebanking - Customer password is entered
+2021-05-23 20:08:48,759 [main] INFO ebanking - Clicked on Submit button
+2021-05-23 20:08:51,797 [main] INFO ebanking - Test case passed
+2021-05-23 20:15:34,355 [main] INFO ebanking - URL is opened
+2021-05-23 20:15:34,528 [main] INFO ebanking - Entered username
+2021-05-23 20:15:34,612 [main] INFO ebanking - Entered password
+2021-05-23 20:15:36,951 [main] INFO ebanking - Clicked on Login
+2021-05-23 20:15:45,433 [main] INFO ebanking - Username is entered
+2021-05-23 20:15:45,510 [main] INFO ebanking - Password is entered
+2021-05-23 20:15:47,970 [main] INFO ebanking - Clicked on Login
+2021-05-23 20:15:51,021 [main] INFO ebanking - Test passed
+2021-05-23 20:15:57,268 [main] INFO ebanking - Username is entered
+2021-05-23 20:15:57,414 [main] INFO ebanking - Password is entered
+2021-05-23 20:15:58,108 [main] INFO ebanking - Clicked on Login
+2021-05-23 20:16:06,398 [main] INFO ebanking - Username is entered
+2021-05-23 20:16:06,612 [main] INFO ebanking - Password is entered
+2021-05-23 20:16:09,186 [main] INFO ebanking - Clicked on Login
+2021-05-23 20:16:12,199 [main] INFO ebanking - Test passed
+2021-05-23 20:16:26,671 [main] INFO ebanking - Username is entered
+2021-05-23 20:16:26,794 [main] INFO ebanking - Password is entered
+2021-05-23 20:16:29,285 [main] INFO ebanking - Clicked on Login
+2021-05-23 20:16:36,494 [main] INFO ebanking - Clicked on Add New Customer link
+2021-05-23 20:16:36,733 [main] INFO ebanking - Customer Name is entered
+2021-05-23 20:16:36,893 [main] INFO ebanking - Gender is selected
+2021-05-23 20:16:37,269 [main] INFO ebanking - DOB is entered
+2021-05-23 20:16:40,458 [main] INFO ebanking - Customer Address is entered
+2021-05-23 20:16:40,658 [main] INFO ebanking - Customer City is entered
+2021-05-23 20:16:40,841 [main] INFO ebanking - Customer State is entered
+2021-05-23 20:16:41,041 [main] INFO ebanking - Customer PIN is entered
+2021-05-23 20:16:41,243 [main] INFO ebanking - Customer Mobile Number is entered
+2021-05-23 20:16:41,491 [main] INFO ebanking - Customer email is entered
+2021-05-23 20:16:41,583 [main] INFO ebanking - Customer password is entered
+2021-05-23 20:16:47,189 [main] INFO ebanking - Clicked on Submit button
+2021-05-23 20:16:50,225 [main] INFO ebanking - Test case passed
+2021-05-23 20:20:54,664 [main] INFO ebanking - URL is opened
+2021-05-23 20:20:54,808 [main] INFO ebanking - Entered username
+2021-05-23 20:20:54,884 [main] INFO ebanking - Entered password
+2021-05-23 20:20:59,057 [main] INFO ebanking - Clicked on Login
+2021-05-23 20:20:59,065 [main] INFO ebanking - Login test passed
+2021-05-23 20:21:10,267 [main] INFO ebanking - Username is entered
+2021-05-23 20:21:10,381 [main] INFO ebanking - Password is entered
+2021-05-23 20:21:11,404 [main] INFO ebanking - Clicked on Login
+2021-05-24 19:53:27,194 [main] INFO ebanking - URL is opened
+2021-05-24 19:53:27,429 [main] INFO ebanking - Entered username
+2021-05-24 19:53:27,557 [main] INFO ebanking - Entered password
+2021-05-24 19:53:30,066 [main] INFO ebanking - Clicked on Login
+2021-05-24 19:53:30,077 [main] INFO ebanking - Login test passed
+2021-05-24 19:53:38,408 [main] INFO ebanking - Username is entered
+2021-05-24 19:53:38,495 [main] INFO ebanking - Password is entered
+2021-05-24 19:53:40,299 [main] INFO ebanking - Clicked on Login
+2021-05-24 19:53:43,371 [main] INFO ebanking - Test passed
+2021-05-24 19:53:46,349 [main] INFO ebanking - Username is entered
+2021-05-24 19:53:46,583 [main] INFO ebanking - Password is entered
+2021-05-24 19:53:47,443 [main] INFO ebanking - Clicked on Login
+2021-05-24 19:53:52,700 [main] INFO ebanking - Username is entered
+2021-05-24 19:53:52,830 [main] INFO ebanking - Password is entered
+2021-05-24 19:53:54,993 [main] INFO ebanking - Clicked on Login
+2021-05-24 19:53:58,009 [main] INFO ebanking - Test passed
+2021-05-24 19:54:08,751 [main] INFO ebanking - Username is entered
+2021-05-24 19:54:08,901 [main] INFO ebanking - Password is entered
+2021-05-24 19:54:10,907 [main] INFO ebanking - Clicked on Login
+2021-05-24 19:54:14,550 [main] INFO ebanking - Clicked on Add New Customer link
+2021-05-24 19:54:14,696 [main] INFO ebanking - Customer Name is entered
+2021-05-24 19:54:14,804 [main] INFO ebanking - Gender is selected
+2021-05-24 19:54:15,002 [main] INFO ebanking - DOB is entered
+2021-05-24 19:54:18,087 [main] INFO ebanking - Customer Address is entered
+2021-05-24 19:54:18,176 [main] INFO ebanking - Customer City is entered
+2021-05-24 19:54:18,254 [main] INFO ebanking - Customer State is entered
+2021-05-24 19:54:18,336 [main] INFO ebanking - Customer PIN is entered
+2021-05-24 19:54:18,421 [main] INFO ebanking - Customer Mobile Number is entered
+2021-05-24 19:54:18,573 [main] INFO ebanking - Customer email is entered
+2021-05-24 19:54:18,655 [main] INFO ebanking - Customer password is entered
+2021-05-24 19:54:20,518 [main] INFO ebanking - Clicked on Submit button
+2021-05-24 19:54:23,557 [main] INFO ebanking - Test case passed
+2021-05-24 19:56:26,938 [main] INFO ebanking - URL is opened
+2021-05-24 19:56:27,265 [main] INFO ebanking - Entered username
+2021-05-24 19:56:27,477 [main] INFO ebanking - Entered password
+2021-05-24 19:56:29,662 [main] INFO ebanking - Clicked on Login
+2021-05-24 19:56:29,684 [main] INFO ebanking - Login test passed
+2021-05-24 19:56:40,469 [main] INFO ebanking - Username is entered
+2021-05-24 19:56:40,573 [main] INFO ebanking - Password is entered
+2021-05-24 19:56:42,265 [main] INFO ebanking - Clicked on Login
+2021-05-24 19:56:46,197 [main] INFO ebanking - Clicked on Add New Customer link
+2021-05-24 19:56:46,415 [main] INFO ebanking - Customer Name is entered
+2021-05-24 19:56:46,587 [main] INFO ebanking - Gender is selected
+2021-05-24 19:56:46,875 [main] INFO ebanking - DOB is entered
+2021-05-24 19:56:50,063 [main] INFO ebanking - Customer Address is entered
+2021-05-24 19:56:50,229 [main] INFO ebanking - Customer City is entered
+2021-05-24 19:56:50,385 [main] INFO ebanking - Customer State is entered
+2021-05-24 19:56:50,554 [main] INFO ebanking - Customer PIN is entered
+2021-05-24 19:56:50,764 [main] INFO ebanking - Customer Mobile Number is entered
+2021-05-24 19:56:51,017 [main] INFO ebanking - Customer email is entered
+2021-05-24 19:56:51,143 [main] INFO ebanking - Customer password is entered
+2021-05-24 19:56:53,143 [main] INFO ebanking - Clicked on Submit button
+2021-05-24 19:56:56,172 [main] INFO ebanking - Test case passed
+2021-05-24 20:50:55,658 [main] INFO ebanking - URL is opened
+2021-05-24 20:50:55,807 [main] INFO ebanking - Entered username
+2021-05-24 20:50:55,913 [main] INFO ebanking - Entered password
+2021-05-24 20:50:58,067 [main] INFO ebanking - Clicked on Login
+2021-05-24 20:50:58,079 [main] INFO ebanking - Login test passed
+2021-05-24 20:51:06,187 [main] INFO ebanking - Username is entered
+2021-05-24 20:51:06,263 [main] INFO ebanking - Password is entered
+2021-05-24 20:51:07,823 [main] INFO ebanking - Clicked on Login
+2021-05-24 20:51:11,420 [main] INFO ebanking - Clicked on Add New Customer link
+2021-05-24 20:51:11,497 [main] INFO ebanking - Customer Name is entered
+2021-05-24 20:51:11,555 [main] INFO ebanking - Gender is selected
+2021-05-24 20:51:11,695 [main] INFO ebanking - DOB is entered
+2021-05-24 20:51:14,823 [main] INFO ebanking - Customer Address is entered
+2021-05-24 20:51:14,902 [main] INFO ebanking - Customer City is entered
+2021-05-24 20:51:14,969 [main] INFO ebanking - Customer State is entered
+2021-05-24 20:51:15,041 [main] INFO ebanking - Customer PIN is entered
+2021-05-24 20:51:15,117 [main] INFO ebanking - Customer Mobile Number is entered
+2021-05-24 20:51:15,210 [main] INFO ebanking - Customer email is entered
+2021-05-24 20:51:15,276 [main] INFO ebanking - Customer password is entered
+2021-05-24 20:51:15,819 [main] INFO ebanking - Clicked on Submit button
+2021-06-07 19:51:10,416 [main] INFO ebanking - URL is opened
+2021-06-07 19:51:10,639 [main] INFO ebanking - Entered username
+2021-06-07 19:51:10,727 [main] INFO ebanking - Entered password
+2021-06-07 19:51:13,533 [main] INFO ebanking - Clicked on Login
+2021-06-07 19:51:13,547 [main] INFO ebanking - Login test passed
+2021-06-07 19:51:21,315 [main] INFO ebanking - Username is entered
+2021-06-07 19:51:21,435 [main] INFO ebanking - Password is entered
+2021-06-07 19:51:24,423 [main] INFO ebanking - Clicked on Login
+2021-06-07 19:51:28,165 [main] INFO ebanking - Clicked on Add New Customer link
+2021-06-07 19:51:28,357 [main] INFO ebanking - Customer Name is entered
+2021-06-07 19:51:28,510 [main] INFO ebanking - Gender is selected
+2021-06-07 19:51:28,914 [main] INFO ebanking - DOB is entered
+2021-06-07 19:51:32,104 [main] INFO ebanking - Customer Address is entered
+2021-06-07 19:51:32,218 [main] INFO ebanking - Customer City is entered
+2021-06-07 19:51:32,387 [main] INFO ebanking - Customer State is entered
+2021-06-07 19:51:32,569 [main] INFO ebanking - Customer PIN is entered
+2021-06-07 19:51:32,731 [main] INFO ebanking - Customer Mobile Number is entered
+2021-06-07 19:51:32,983 [main] INFO ebanking - Customer email is entered
+2021-06-07 19:51:33,173 [main] INFO ebanking - Customer password is entered
+2021-06-07 19:51:35,882 [main] INFO ebanking - Clicked on Submit button
+2021-06-07 19:51:38,935 [main] INFO ebanking - Test case passed
+2021-06-13 12:47:01,396 [main] INFO ebanking - URL is opened
+2021-06-13 12:47:01,610 [main] INFO ebanking - Entered username
+2021-06-13 12:47:01,730 [main] INFO ebanking - Entered password
+2021-06-13 12:47:04,345 [main] INFO ebanking - Clicked on Login
+2021-06-13 12:47:04,365 [main] INFO ebanking - Login test passed
+2021-06-13 12:47:10,103 [main] INFO ebanking - Username is entered
+2021-06-13 12:47:10,190 [main] INFO ebanking - Password is entered
+2021-06-13 12:47:12,544 [main] INFO ebanking - Clicked on Login
+2021-06-13 12:47:16,883 [main] INFO ebanking - Clicked on Add New Customer link
+2021-06-13 12:47:17,075 [main] INFO ebanking - Customer Name is entered
+2021-06-13 12:47:17,242 [main] INFO ebanking - Gender is selected
+2021-06-13 12:47:17,593 [main] INFO ebanking - DOB is entered
+2021-06-13 12:47:20,782 [main] INFO ebanking - Customer Address is entered
+2021-06-13 12:47:20,926 [main] INFO ebanking - Customer City is entered
+2021-06-13 12:47:21,106 [main] INFO ebanking - Customer State is entered
+2021-06-13 12:47:21,306 [main] INFO ebanking - Customer PIN is entered
+2021-06-13 12:47:21,497 [main] INFO ebanking - Customer Mobile Number is entered
+2021-06-13 12:47:21,638 [main] INFO ebanking - Customer email is entered
+2021-06-13 12:47:21,737 [main] INFO ebanking - Customer password is entered
+2021-06-13 12:47:23,625 [main] INFO ebanking - Clicked on Submit button
+2021-06-13 12:47:26,665 [main] INFO ebanking - Test case passed
+2021-06-13 12:50:11,973 [main] INFO ebanking - URL is opened
+2021-06-13 12:50:12,102 [main] INFO ebanking - Entered username
+2021-06-13 12:50:12,183 [main] INFO ebanking - Entered password
+2021-06-13 12:50:14,498 [main] INFO ebanking - Clicked on Login
+2021-06-13 12:50:14,516 [main] INFO ebanking - Login test passed
+2021-06-13 12:50:21,538 [main] INFO ebanking - Username is entered
+2021-06-13 12:50:21,626 [main] INFO ebanking - Password is entered
+2021-06-13 12:50:24,112 [main] INFO ebanking - Clicked on Login
+2021-06-13 12:50:28,413 [main] INFO ebanking - Clicked on Add New Customer link
+2021-06-13 12:50:28,648 [main] INFO ebanking - Customer Name is entered
+2021-06-13 12:50:28,837 [main] INFO ebanking - Gender is selected
+2021-06-13 12:50:29,207 [main] INFO ebanking - DOB is entered
+2021-06-13 12:50:32,399 [main] INFO ebanking - Customer Address is entered
+2021-06-13 12:50:32,537 [main] INFO ebanking - Customer City is entered
+2021-06-13 12:50:32,716 [main] INFO ebanking - Customer State is entered
+2021-06-13 12:50:32,915 [main] INFO ebanking - Customer PIN is entered
+2021-06-13 12:50:33,115 [main] INFO ebanking - Customer Mobile Number is entered
+2021-06-13 12:50:33,359 [main] INFO ebanking - Customer email is entered
+2021-06-13 12:50:33,545 [main] INFO ebanking - Customer password is entered
+2021-06-13 12:50:36,567 [main] INFO ebanking - Clicked on Submit button
+2021-06-13 12:50:39,611 [main] INFO ebanking - Test case passed
+2021-06-13 13:33:03,438 [main] INFO ebanking - URL is opened
+2021-06-13 13:33:03,626 [main] INFO ebanking - Entered username
+2021-06-13 13:33:03,811 [main] INFO ebanking - Entered password
+2021-06-13 13:33:05,926 [main] INFO ebanking - Clicked on Login
+2021-06-13 13:33:05,940 [main] INFO ebanking - Login test passed
+2021-06-13 13:33:14,316 [main] INFO ebanking - Username is entered
+2021-06-13 13:33:14,468 [main] INFO ebanking - Password is entered
+2021-06-13 13:33:16,316 [main] INFO ebanking - Clicked on Login
+2021-06-13 13:33:20,212 [main] INFO ebanking - Clicked on Add New Customer link
+2021-06-13 13:33:20,328 [main] INFO ebanking - Customer Name is entered
+2021-06-13 13:33:20,404 [main] INFO ebanking - Gender is selected
+2021-06-13 13:33:20,575 [main] INFO ebanking - DOB is entered
+2021-06-13 13:33:23,746 [main] INFO ebanking - Customer Address is entered
+2021-06-13 13:33:23,908 [main] INFO ebanking - Customer City is entered
+2021-06-13 13:33:24,089 [main] INFO ebanking - Customer State is entered
+2021-06-13 13:33:24,278 [main] INFO ebanking - Customer PIN is entered
+2021-06-13 13:33:24,472 [main] INFO ebanking - Customer Mobile Number is entered
+2021-06-13 13:33:24,713 [main] INFO ebanking - Customer email is entered
+2021-06-13 13:33:24,817 [main] INFO ebanking - Customer password is entered
+2021-06-13 13:33:26,457 [main] INFO ebanking - Clicked on Submit button
+2021-06-13 13:33:29,482 [main] INFO ebanking - Test case passed
