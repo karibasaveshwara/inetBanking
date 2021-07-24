@@ -1,85 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="1" total="2" passed="1">
+<testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Failed suite [Suite]" duration-ms="29181" started-at="2021-05-23T14:50:48Z" finished-at="2021-05-23T14:51:17Z">
+  <suite name="Suite" duration-ms="14111" started-at="2021-07-24T09:47:55Z" finished-at="2021-07-24T09:48:09Z">
     <groups>
     </groups>
-    <test name="BankingApp_Test(failed)" duration-ms="29181" started-at="2021-05-23T14:50:48Z" finished-at="2021-05-23T14:51:17Z">
-      <class name="com.inetbanking.testCases.TC_LoginDDT_002">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.inetbanking.testCases.TC_LoginDDT_002@204f30ec]" name="setup" is-config="true" duration-ms="9591" started-at="2021-05-23T20:20:59Z" finished-at="2021-05-23T20:21:09Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method status="FAIL" signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:com.inetbanking.testCases.TC_LoginDDT_002@204f30ec]" name="loginDDT" duration-ms="7172" started-at="2021-05-23T20:21:10Z" data-provider="LoginData" finished-at="2021-05-23T20:21:17Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[mgd]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[j123]]>
-              </value>
-            </param>
-          </params>
-          <exception class="java.lang.AssertionError">
-            <message>
-              <![CDATA[expected [true] but found [false]]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
-	at org.testng.Assert.fail(Assert.java:94)
-	at org.testng.Assert.failNotEquals(Assert.java:513)
-	at org.testng.Assert.assertTrue(Assert.java:42)
-	at org.testng.Assert.assertTrue(Assert.java:52)
-	at com.inetbanking.testCases.TC_LoginDDT_002.loginDDT(TC_LoginDDT_002.java:32)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
-	at org.testng.internal.Invoker.invokeMethod(Invoker.java:646)
-	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:823)
-	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1131)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
-	at org.testng.TestRunner.privateRun(TestRunner.java:778)
-	at org.testng.TestRunner.run(TestRunner.java:632)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1225)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1150)
-	at org.testng.TestNG.runSuites(TestNG.java:1075)
-	at org.testng.TestNG.run(TestNG.java:1047)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:126)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:137)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:58)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.AssertionError -->
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- loginDDT -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.inetbanking.testCases.TC_LoginDDT_002@204f30ec]" name="tearDown" is-config="true" duration-ms="659" started-at="2021-05-23T20:21:17Z" finished-at="2021-05-23T20:21:17Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- com.inetbanking.testCases.TC_LoginDDT_002 -->
+    <test name="BankingApp_Test" duration-ms="14111" started-at="2021-07-24T09:47:55Z" finished-at="2021-07-24T09:48:09Z">
       <class name="com.inetbanking.testCases.TC_LoginTest_001">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.inetbanking.testCases.TC_LoginTest_001@77cd7a0]" name="setup" is-config="true" duration-ms="5669" started-at="2021-05-23T20:20:48Z" finished-at="2021-05-23T20:20:54Z">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.inetbanking.testCases.TC_LoginTest_001@6d4b1c02]" name="setup" is-config="true" duration-ms="10862" started-at="2021-07-24T15:17:55Z" finished-at="2021-07-24T15:18:06Z">
           <params>
             <param index="0">
               <value>
@@ -90,15 +18,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.inetbanking.testCases.TC_LoginTest_001@77cd7a0]" name="loginTest" duration-ms="4407" started-at="2021-05-23T20:20:54Z" finished-at="2021-05-23T20:20:59Z">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.inetbanking.testCases.TC_LoginTest_001@6d4b1c02]" name="loginTest" duration-ms="2278" started-at="2021-07-24T15:18:06Z" finished-at="2021-07-24T15:18:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.inetbanking.testCases.TC_LoginTest_001@77cd7a0]" name="tearDown" is-config="true" duration-ms="689" started-at="2021-05-23T20:20:59Z" finished-at="2021-05-23T20:20:59Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.inetbanking.testCases.TC_LoginTest_001@6d4b1c02]" name="tearDown" is-config="true" duration-ms="761" started-at="2021-07-24T15:18:08Z" finished-at="2021-07-24T15:18:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.inetbanking.testCases.TC_LoginTest_001 -->
-    </test> <!-- BankingApp_Test(failed) -->
-  </suite> <!-- Failed suite [Suite] -->
+    </test> <!-- BankingApp_Test -->
+  </suite> <!-- Suite -->
 </testng-results>
