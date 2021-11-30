@@ -10,7 +10,6 @@
     <classes>
       <class name="com.inetbanking.testCases.TC_LoginTest_001">
         <methods>
-          <include name="tearDown"/>
           <include name="setup"/>
           <include name="loginTest"/>
         </methods>
